@@ -1,0 +1,17 @@
+# Use 'ls' to look at the contents of your current directory
+ls
+
+# Use 'cd' to change your current directory
+cd Spring2022
+
+# Use 'cd ..' to go backwards one directory
+cd ..
+
+# You can list multiple directories in one go, separating them with '/'
+cd Spring2022/labs
+
+# Use 'cat' to view a text file
+cat termFun.txt
+
+# Use 'pwd' to see your current directory
+pwd
