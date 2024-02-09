@@ -178,7 +178,7 @@ distribution. The central limit theorem states that the sum of independent rando
 a normal distribution as the number of samples increases. For example, the distribution of students' heights
 at UC Berkeley resembles a bell curve, which is the normal distribution. A cumulative distribution function (CDF) shows the probability that a random variable will take a value less than or equal to x, which in the graphs below have units of standard deviations. Recall that standard deviations are a measure of the amount of variation in the data. 
 
-![Alt text](inputs/pdf.png) ![Alt text](inputs/cdf.png)
+![Alt text](pdf.png) ![Alt text](cdf.png)
 
 ```{r rnorm}
 #draw random variates from the normal distribution
